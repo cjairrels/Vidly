@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Vidly
 {
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
